@@ -1,1 +1,1 @@
-print('Evrybady goodbye')
+print('Evrybady goodbye;')
